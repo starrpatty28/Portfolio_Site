@@ -1,5 +1,13 @@
 /*-----------------basic styling-----------------*/
-
+  html, body {
+    margin: 0;
+    padding: 0;
+    width: 0;
+    height: 100%;
+    font-family: "Roberto Mono" !important;
+    background: #0f0f0f !important;
+    color: #fff !important;
+  }
 
 /*---------------typewriter effect----------------*/
 
