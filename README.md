@@ -1,2 +1,2 @@
 # Portfolio_Site
-Complete Responsive | Minimal Portfolio Website | HTML, CSS &amp; JS (JQUERY+ GSAP)
+Complete Responsive | Portfolio Website | HTML, CSS &amp; JS (JQUERY+ GSAP)
